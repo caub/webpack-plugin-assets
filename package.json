@@ -1,0 +1,26 @@
+{
+  "name": "webpack-plugin-assets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": "github:caub/webpack-plugin-assets",
+  "keywords": [
+    "webpack",
+    "sort",
+    "assets",
+    "chunks"
+  ],
+  "author": "caub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caub/webpack-plugin-assets/issues"
+  },
+  "homepage": "https://github.com/caub/webpack-plugin-assets#readme",
+  "dependencies": {
+    "toposort": "^2.0.2"
+  },
+  "peerDependencies": {
+    "webpack": ">=4"
+  }
+}
